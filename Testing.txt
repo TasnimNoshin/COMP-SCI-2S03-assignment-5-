@@ -1,0 +1,26 @@
+* Run CalculatorFrame to start the process.
+* A window named "Really Simple Calculator" will pop-up on the screen.
+* This is the test calculator
+
+* The "M" button represents whether the result will be integer or float.
+* It is initialized to be integer.
+* After pressing the button if it turns green it indicates Float Mode and if it turns red it's Integer Mode.
+
+* The "B" button works as back space that will delete your most resent input.
+
+* The "A" button means all clear, which deletes all the inputs.
+
+* "+" , "-" , "*" , "/" are operation buttons.
+
+* "(" , ")" do not work.
+
+* After entering an exaple "=" button gives the result.
+
+* if you type in 1-3 in float mode you will get -2.0
+* 1/2 in integer mode will give you "frction".
+* 2/3 in float mode will give you 0.6666667.
+* Typing 2-= will give you syntax error.
+* pressing backspace will delete the error message and give you a chance to make your answer correct.
+* 1/0 in float mode will give you infinity.
+* 2*3 in float mode will give you 6.0.
+
